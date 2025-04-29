@@ -6,14 +6,14 @@ O aplicativo Tasks  ajuda o usuário a  gerenciar as suas atividades permitindo 
 
 O desensolvimento do aplicativo abrangeu vários conceitos de android como:
 
-Fragment
-Activity
-Ciclo de vida da Activity
-ViewModel
-Room
-Retrofit
-DataStore
-Coroutine
-RecycleView
-Arquitetura MVVM
-Autenticação de Biometria
+Fragment;
+Activity;
+Ciclo de vida da Activity;
+ViewModel;
+Room;
+Retrofit;
+DataStore;
+Coroutine;
+RecycleView;
+Arquitetura MVVM;
+Autenticação de Biometria;
